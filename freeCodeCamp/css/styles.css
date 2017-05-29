@@ -1,20 +1,39 @@
 body {
     font-family: "Poppins", serif;
     font-size: 15px;
-
 }
-.collor .row {
-    background-color: darkkhaki;
-    border-radius: 10px;
-    padding-top: 100px;
-
+div {
+    display: block;
 }
+div.container {
+    padding-top: 70px;
+    padding-bottom: 70px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.container .color-fon {
+    border-radius: 7px;
+}
+.color-fon {
+    padding-top: 50px;
+    padding-bottom: 50x;
+    background-color: silver;
+}
+
 .text-center {
     text-align: center;
 }
+
 .main-image {
     display: block;
-    border: 1px solid darkslategrey;
-    margin-bottom: 25px;
     padding: 7px;
+    background-color: gray;
+    border: 1px solid darkslategrey;
+    border-radius: 7px;
+    margin-bottom: 25px;
+    margin-right: 300px;
+    margin-left: 300px;
+}
+.image-text {
+
 }
