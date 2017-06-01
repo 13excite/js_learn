@@ -3,6 +3,9 @@ header {
     color: white;
     font-size: 100%;
 }
+body {
+    font-family: "Apple Symbols", sans-serif;
+}
 header a {
     color: white;
 }
@@ -12,7 +15,7 @@ header a {
     margin-top: 0;
     padding-top: 4em;
     padding-bottom: 4em;
-    font-family: "Apple Symbols", sans-serif;
+
     text-transform: uppercase;
     color: white;
 }
@@ -25,9 +28,12 @@ header .page-header {
     display: inline-block;
     vertical-align: middle;
     margin-left: 8px;
-    padding: 7px 0;
     line-height: 1.4;
     color: white;
+}
+.logo-name h2 {
+    font-size: 22px;
+    margin-top: 8px;
 }
 header .nav-right {
     clear: none;
@@ -48,17 +54,11 @@ header .nav-right {
 }
 .about {
     padding: 7px 0;
+    position: absolute;
+    width: 100%;
     line-height: 1.4;
     color: white;
     background-color: #2098D1
 
 }
-.test-header-about {
-  position: relative;
-    box-sizing: border-box;
-    width: 100%;
-    padding: 40px 20px 30px 20px;
-    background: #2098D1;
-    color: white;
-    text-align: center;
-}
+
