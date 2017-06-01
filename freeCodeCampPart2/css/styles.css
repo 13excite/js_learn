@@ -17,7 +17,6 @@ header a {
     color: white;
 }
 header .page-header {
-
     max-width: 1080px;
     margin: auto;
     padding: 20px 20px 0 20px;
@@ -48,11 +47,18 @@ header .nav-right {
     font-size: 22px;
 }
 .about {
-    display: inline-block;
-    vertical-align: middle;
     padding: 7px 0;
     line-height: 1.4;
     color: white;
     background-color: #2098D1
 
+}
+.test-header-about {
+  position: relative;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 40px 20px 30px 20px;
+    background: #2098D1;
+    color: white;
+    text-align: center;
 }
