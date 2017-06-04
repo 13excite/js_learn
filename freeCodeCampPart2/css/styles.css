@@ -9,6 +9,9 @@ body {
 header a {
     color: white;
 }
+ul {
+    list-style-type: none;
+}
 
 .page-header {
     background-color: #2098D1;
@@ -59,6 +62,8 @@ header .nav-right {
     line-height: 1.4;
     color: white;
     background-color: #2098D1
-
+}
+.container {
+    margin-top: 140px;
 }
 
