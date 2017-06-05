@@ -63,8 +63,10 @@ header .nav-right {
     color: white;
     background-color: #2098D1
 }
-.container {
-    margin-top: 140px;
+#container {
     text-align: justify;
+    width: 100%;
+    margin: 140px 0px 0px 0px;
+
 }
 
