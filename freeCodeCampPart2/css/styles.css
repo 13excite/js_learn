@@ -67,6 +67,8 @@ header .nav-right {
     text-align: justify;
     width: 100%;
     margin: 140px 0px 0px 0px;
-
+}
+.three-up li {
+    background: #f9f9f8;
 }
 
