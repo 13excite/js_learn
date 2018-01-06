@@ -57,12 +57,13 @@ header .nav-right {
     position: absolute;
     width: 100%;
     color: white;
-    background-color: #2098D1
+    background-color: black;
 }
 #container {
     text-align: justify;
     width: 100%;
     margin: 140px 0px 0px 0px;
+    background-color: red;
 }
 .three-up li {
     background: #f9f9f8;
