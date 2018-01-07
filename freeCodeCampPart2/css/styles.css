@@ -52,15 +52,21 @@ header .nav-right {
     margin-left: 2em;
     font-size: 22px;
 }
+#main {
+    margin: 0 auto;
+}
 .about {
     padding: 7px 0;
     position: absolute;
     width: 100%;
     color: white;
     background-color: black;
+    display: inline-block;
 }
-#container {
+
+#portfolio {
     text-align: justify;
+    display: inline-block;
     width: 100%;
     margin: 140px 0px 0px 0px;
     background-color: red;
