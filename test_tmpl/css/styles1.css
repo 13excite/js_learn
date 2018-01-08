@@ -5,6 +5,7 @@
 } */
 body {
     margin: 0;
+    font-family: "Apple Symbols", sans-serif;
 }
 .logo img {
     height: 100px;
@@ -27,6 +28,7 @@ header a {
 .logo-name {
     display: inline-block;
     vertical-align: middle;
+    font-size: 22px;
 }
 .nav-right {
     position: relative;
@@ -39,6 +41,7 @@ header a {
 
 .list-item {
     float: left;
+    font-size: 22px;
 }
 .list-item a {
     display: block;
