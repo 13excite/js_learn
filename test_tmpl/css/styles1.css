@@ -1,0 +1,17 @@
+
+/*div {
+    margin: 20px;
+    padding: 10px;
+} */
+.logo img {
+    height: 100px;
+    width: auto;
+}
+header {
+    background-color: #2098D1;
+    color: #ffffff;
+    font-size: 100%;
+}
+header a {
+    color: #ffffff;
+}

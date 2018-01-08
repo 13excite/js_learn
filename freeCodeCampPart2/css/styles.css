@@ -12,7 +12,9 @@ header a {
 ul {
     list-style-type: none;
 }
-
+section {
+    margin: 10px;
+}
 .page-header {
     background-color: #2098D1;
     margin-top: 0;
