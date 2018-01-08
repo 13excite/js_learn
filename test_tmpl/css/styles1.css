@@ -3,6 +3,9 @@
     margin: 20px;
     padding: 10px;
 } */
+body {
+    margin: 0;
+}
 .logo img {
     height: 100px;
     width: auto;
@@ -11,7 +14,6 @@ header {
     background-color: #2098D1;
     color: #ffffff;
     font-size: 100%;
-    margin-left: 0%;
 }
 header a {
     color: #ffffff;
