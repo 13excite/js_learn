@@ -11,7 +11,39 @@ header {
     background-color: #2098D1;
     color: #ffffff;
     font-size: 100%;
+    margin-left: 0%;
 }
 header a {
     color: #ffffff;
+}
+.page-header {
+    margin-top: 0;
+    text-transform: uppercase;
+    margin: auto;
+    padding: 20px 20px 0 20px;
+}
+.logo-name {
+    display: inline-block;
+    vertical-align: middle;
+}
+.nav-right {
+    position: relative;
+    float: right;
+    margin-top: 10px;
+    line-height: 1.6;
+    list-style-type: none;
+    overflow: hidden;
+}
+
+.list-item {
+    float: left;
+}
+.list-item a {
+    display: block;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+.list-item a:hover {
+    background-color: #065a6e;
 }
