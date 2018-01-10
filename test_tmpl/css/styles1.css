@@ -16,6 +16,10 @@ header {
     color: #ffffff;
     font-size: 100%;
 }
+footer {
+    background-color: #2098D1;
+    color: #ffffff;
+}
 header a {
     color: #ffffff;
 }
@@ -51,4 +55,23 @@ header a {
 }
 .list-item a:hover {
     background-color: #065a6e;
+}
+div.main {
+    background-color: #b2b9bb;
+    padding: 1px;
+}
+.about {
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: #9cb9ab;
+}
+.portfolio {
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: violet;
+}
+.about .text-center {
+    /*margin-top: 0%;   will need fix*/
+    text-align: center;
+    font-size: 1.5em;
 }
