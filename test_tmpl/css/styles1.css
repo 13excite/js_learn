@@ -37,7 +37,7 @@ header a {
 .nav-right {
     position: relative;
     float: right;
-    margin-top: 10px;
+    margin-top: 20px;
     line-height: 1.6;
     list-style-type: none;
     overflow: hidden;
@@ -50,7 +50,7 @@ header a {
 .list-item a {
     display: block;
     text-align: center;
-    padding: 16px;
+    padding: 12px;
     text-decoration: none;
 }
 .list-item a:hover {
@@ -58,21 +58,30 @@ header a {
 }
 div.main {
     background-color: #b2b9bb;
-    padding: 1px;
+    /*padding: 1px;*/
 }
 .about {
-    margin-left: 5%;
-    margin-right: 5%;
-    background-color: #9cb9ab;
+    color: #ffffff;
+    border: none;
+}
+.about .text-center {
+    padding: 10px;
+    text-align: center;
+    font-size: 1.5em;
+    margin: 0%;
+}
+.about hr {
+    margin-left: 10%;
+    margin-right: 10%;
 }
 .portfolio {
     margin-left: 5%;
     margin-right: 5%;
     background-color: violet;
 }
-.about .text-center {
-    /*margin-top: 0%;   will need fix*/
-    text-align: center;
-    font-size: 1.5em;
-    margin: 0%;
+.portfolio p {
+    margin-top: 0;
+}
+.portfolio-list {
+    list-style-type: none;
 }
